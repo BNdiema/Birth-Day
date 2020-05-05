@@ -47,3 +47,8 @@ input[type=button]{
    button {
        color: rgb(50, 105, 87);
    }
+
+   label {
+       color: rgb(55, 70, 25);
+   }
+   
